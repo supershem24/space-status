@@ -1,9 +1,28 @@
-﻿body
-{
+﻿@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
+body {
+    background-color: #8D86C9;
+    color: #EBEBEB;
+    font-family: "Inter", sans-serif;
 }
 
-h1
-{
+section {
+    margin: 2% 3%;
+    background-color: #2A2E45;
+    border-radius: 70px;
+    padding: 1% 2%;
+}
 
+section.header {
+    display: flex;
+    margin: 2% 6%;
+    
+}
+
+h2{
+    font-size: 2em;
+}
+
+img.active {
+    
 }
